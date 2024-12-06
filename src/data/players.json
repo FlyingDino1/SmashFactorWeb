@@ -1,0 +1,682 @@
+[
+  {
+    "id": 517,
+    "name": "Kristy Zhao",
+    "smashfactor": 200,
+    "games_played": 12,
+    "createdAt": "2024-12-05 14:01:26.308+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 518,
+    "name": "Zara Gagie",
+    "smashfactor": 906,
+    "games_played": 12,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 519,
+    "name": "Josie Ford",
+    "smashfactor": 1056,
+    "games_played": 6,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 520,
+    "name": "Darcey Lamont",
+    "smashfactor": 1055,
+    "games_played": 8,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 521,
+    "name": "Leonnie Berghs",
+    "smashfactor": 960,
+    "games_played": 7,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 522,
+    "name": "Neha Basra",
+    "smashfactor": 870,
+    "games_played": 10,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 523,
+    "name": "Annanya Kansal",
+    "smashfactor": 954,
+    "games_played": 10,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 524,
+    "name": "Anna Hennekens",
+    "smashfactor": 1099,
+    "games_played": 11,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 525,
+    "name": "Olivia Shen",
+    "smashfactor": 910,
+    "games_played": 9,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 526,
+    "name": "Phoebe Edwards",
+    "smashfactor": 933,
+    "games_played": 9,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 527,
+    "name": "Aurelia",
+    "smashfactor": 869,
+    "games_played": 9,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 528,
+    "name": "Milly Worthington",
+    "smashfactor": 1038,
+    "games_played": 7,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 529,
+    "name": "Alena Tan",
+    "smashfactor": 1077,
+    "games_played": 8,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 530,
+    "name": "Isabelle Yupango",
+    "smashfactor": 954,
+    "games_played": 8,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 531,
+    "name": "Maya Cleve",
+    "smashfactor": 1104,
+    "games_played": 18,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 532,
+    "name": "Amelia Chalmers",
+    "smashfactor": 930,
+    "games_played": 7,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 533,
+    "name": "Eileen Jing",
+    "smashfactor": 866,
+    "games_played": 13,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 534,
+    "name": "Annabelle Stengel",
+    "smashfactor": 1125,
+    "games_played": 10,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 535,
+    "name": "Aanya Ganesh",
+    "smashfactor": 852,
+    "games_played": 12,
+    "createdAt": "2024-12-05 14:01:26.308+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 536,
+    "name": "Chloe Lippis",
+    "smashfactor": 1023,
+    "games_played": 7,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 537,
+    "name": "Kara Williamson",
+    "smashfactor": 1024,
+    "games_played": 12,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 538,
+    "name": "Orla K",
+    "smashfactor": 1072,
+    "games_played": 5,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 539,
+    "name": "Lois Tang",
+    "smashfactor": 937,
+    "games_played": 7,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 540,
+    "name": "Lumi Tala",
+    "smashfactor": 1114,
+    "games_played": 9,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 541,
+    "name": "Nina Eyre",
+    "smashfactor": 1027,
+    "games_played": 11,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 542,
+    "name": "Caroline Lwin",
+    "smashfactor": 850,
+    "games_played": 12,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 543,
+    "name": "Samantha Wong",
+    "smashfactor": 1102,
+    "games_played": 12,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 544,
+    "name": "Lucia Clark",
+    "smashfactor": 1121,
+    "games_played": 11,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 545,
+    "name": "Zoe Shoe",
+    "smashfactor": 970,
+    "games_played": 10,
+    "createdAt": "2024-12-05 14:01:26.308+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 546,
+    "name": "Yuna Lee",
+    "smashfactor": 967,
+    "games_played": 10,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 547,
+    "name": "Leah Howden",
+    "smashfactor": 1082,
+    "games_played": 10,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 548,
+    "name": "Ava Yitzhakov",
+    "smashfactor": 920,
+    "games_played": 11,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 549,
+    "name": "Chloe Obrien",
+    "smashfactor": 1037,
+    "games_played": 9,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 550,
+    "name": "Ciara Smith",
+    "smashfactor": 1085,
+    "games_played": 14,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 551,
+    "name": "Lauren Short Mc-lean",
+    "smashfactor": 500,
+    "games_played": 16,
+    "createdAt": "2024-12-05 14:01:26.308+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 552,
+    "name": "Shira Shiomo",
+    "smashfactor": 1096,
+    "games_played": 12,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 553,
+    "name": "Emily Keh",
+    "smashfactor": 1025,
+    "games_played": 10,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 554,
+    "name": "Paoline Cammy",
+    "smashfactor": 909,
+    "games_played": 7,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 555,
+    "name": "Ebony Obrien",
+    "smashfactor": 1163,
+    "games_played": 14,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 556,
+    "name": "Angelica Cheng",
+    "smashfactor": 961,
+    "games_played": 12,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 557,
+    "name": "Bonnie Lyonns",
+    "smashfactor": 1051,
+    "games_played": 16,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 558,
+    "name": "Alexa Pineda",
+    "smashfactor": 1005,
+    "games_played": 9,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 559,
+    "name": "Alicia Wang",
+    "smashfactor": 977,
+    "games_played": 7,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.321+00"
+  },
+  {
+    "id": 560,
+    "name": "Charlotte Debard",
+    "smashfactor": 1149,
+    "games_played": 11,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 561,
+    "name": "Romi Belkin",
+    "smashfactor": 1070,
+    "games_played": 10,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 562,
+    "name": "Grace Kwon",
+    "smashfactor": 953,
+    "games_played": 6,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 563,
+    "name": "Lara Hendrick",
+    "smashfactor": 1044,
+    "games_played": 12,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 564,
+    "name": "Grace Ruthann Xu",
+    "smashfactor": 973,
+    "games_played": 10,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 565,
+    "name": "Inaya Mahajan",
+    "smashfactor": 853,
+    "games_played": 11,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 566,
+    "name": "Ysabel",
+    "smashfactor": 991,
+    "games_played": 10,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 567,
+    "name": "Sara Shaws",
+    "smashfactor": 1142,
+    "games_played": 11,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 568,
+    "name": "Mila Bea",
+    "smashfactor": 1102,
+    "games_played": 10,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 569,
+    "name": "Mia Kasahara",
+    "smashfactor": 1130,
+    "games_played": 14,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 570,
+    "name": "Maisie Himestra",
+    "smashfactor": 894,
+    "games_played": 8,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 571,
+    "name": "Claudette Hopeffner",
+    "smashfactor": 1064,
+    "games_played": 9,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 572,
+    "name": "Indrani M",
+    "smashfactor": 923,
+    "games_played": 8,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 573,
+    "name": "Yerin Leysen",
+    "smashfactor": 938,
+    "games_played": 6,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 574,
+    "name": "Ciara Matthews",
+    "smashfactor": 855,
+    "games_played": 12,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 575,
+    "name": "Juliette Jolivet",
+    "smashfactor": 1114,
+    "games_played": 11,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 576,
+    "name": "Roslynn Cheng",
+    "smashfactor": 949,
+    "games_played": 8,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 577,
+    "name": "Florence Scott",
+    "smashfactor": 1063,
+    "games_played": 13,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 578,
+    "name": "Ever M",
+    "smashfactor": 976,
+    "games_played": 10,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 579,
+    "name": "Kiana Scott",
+    "smashfactor": 1081,
+    "games_played": 7,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 580,
+    "name": "Sophie Titterington",
+    "smashfactor": 1022,
+    "games_played": 19,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 581,
+    "name": "Karen Liang",
+    "smashfactor": 901,
+    "games_played": 8,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 582,
+    "name": "Rachel Wafelbakker",
+    "smashfactor": 963,
+    "games_played": 9,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 583,
+    "name": "Thea Lee",
+    "smashfactor": 981,
+    "games_played": 5,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 584,
+    "name": "Ella Ungerman",
+    "smashfactor": 1140,
+    "games_played": 21,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 585,
+    "name": "Samantha Kho",
+    "smashfactor": 904,
+    "games_played": 10,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 586,
+    "name": "Elizabeth Krishnan",
+    "smashfactor": 1114,
+    "games_played": 8,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 587,
+    "name": "Makeeda Minnit",
+    "smashfactor": 993,
+    "games_played": 10,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 588,
+    "name": "Tia Forsyth",
+    "smashfactor": 1066,
+    "games_played": 12,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 589,
+    "name": "Phoebe Adams",
+    "smashfactor": 1016,
+    "games_played": 5,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 590,
+    "name": "Snaya B",
+    "smashfactor": 881,
+    "games_played": 9,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 591,
+    "name": "Emily Hart",
+    "smashfactor": 1076,
+    "games_played": 10,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 592,
+    "name": "Kashvi L",
+    "smashfactor": 883,
+    "games_played": 8,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 593,
+    "name": "Isabelle Lee",
+    "smashfactor": 919,
+    "games_played": 8,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 594,
+    "name": "Ava Yeo",
+    "smashfactor": 1014,
+    "games_played": 13,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 595,
+    "name": "Evie Childs",
+    "smashfactor": 874,
+    "games_played": 17,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 596,
+    "name": "Mishti Patel",
+    "smashfactor": 934,
+    "games_played": 7,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 597,
+    "name": "Victoria Rivera",
+    "smashfactor": 1003,
+    "games_played": 10,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 598,
+    "name": "Isabelle Kang",
+    "smashfactor": 1008,
+    "games_played": 7,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 599,
+    "name": "Lucy Bosher",
+    "smashfactor": 1046,
+    "games_played": 19,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 600,
+    "name": "Alisha Alle",
+    "smashfactor": 929,
+    "games_played": 8,
+    "createdAt": "2024-12-05 14:01:26.309+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  },
+  {
+    "id": 601,
+    "name": "Natalia Caudle",
+    "smashfactor": 1085,
+    "games_played": 13,
+    "createdAt": "2024-12-05 14:01:26.31+00",
+    "updatedAt": "2024-12-05 14:02:22.322+00"
+  }
+]
