@@ -1,4 +1,3 @@
-
 import { NextResponse } from 'next/server'
 import { PrismaClient } from '@prisma/client'
 const prisma = new PrismaClient();
@@ -10,7 +9,7 @@ export async function POST(
   players.forEach(async (player:any) => {
       await prisma.players.upsert({
           where: {
-              id: player["id"]
+              id: player["id"],
           },
           update: {
               smashfactor: player["smashfactor"],
@@ -25,6 +24,14 @@ export async function POST(
               updatedAt: new Date()
           }
         })
+  })
+  await prisma.general.update({
+    where: {"id": 1},
+    data: {
+      count: {
+        increment: 1
+      }
+    }
   })
   return NextResponse.json({"status":"successfully posted"})
 }
