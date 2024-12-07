@@ -22,8 +22,16 @@ export default function App() {
     fetch('api/pullData', {
       method: 'POST',
     }).then(data => data.json())
-    .then(data => {setPlayers(data)});
-  }
+    .then(data => {
+      setPlayers(data)
+    });
+    fetch('api/pullMatches', {
+      method: 'POST',
+    }).then(data => data.json())
+    .then(data => {
+      setMatches(data["count"])
+    });
+}
 
   useEffect(() => {
     pullData()
