@@ -7,9 +7,10 @@ export async function POST(
 ) {
   const players = await req.json()
   players.forEach(async (player:any) => {
+    console.log(player)
       await prisma.players.upsert({
           where: {
-              id: player["id"],
+            id: player["id"]
           },
           update: {
               smashfactor: player["smashfactor"],
@@ -17,6 +18,7 @@ export async function POST(
               updatedAt: new Date()
           },
           create: {
+              id: player["id"], // line added
               name: player["name"],
               smashfactor: player["smashfactor"],
               games_played: player["games_played"],
@@ -24,7 +26,7 @@ export async function POST(
               updatedAt: new Date()
           }
         })
-  })
+      })
   await prisma.general.update({
     where: {"id": 1},
     data: {
